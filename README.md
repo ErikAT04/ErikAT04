@@ -2,7 +2,7 @@
 ¡Soy Erik, un gusto! 👋
 </h1>
 <p>
-  Intento de programador. Estudiando en 1º de DAM 💻<br>
+  Intento de programador. Estudiando 1º de DAM 💻<br>
   Actualmente aprendiendo:
   <ul>
     <li>Java <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="20px"></li>
