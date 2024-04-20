@@ -15,6 +15,10 @@
   Con ganas de aprender sobre todo 📖
 </p>
 
+<a href="mailto:aterik.dev@gmail.com" target="_blank">
+  <img alt="gmail" src="https://img.shields.io/badge/Gmail-aterik.dev%40gmail.com-%233f8b47">
+</a>
+
 ## ⚙️ Estadísticas GitHub 
 <p align="center">
 <a href="https://github.com/ErikAT04">
