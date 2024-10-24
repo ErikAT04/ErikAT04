@@ -27,13 +27,10 @@
 </a>
 
 ## 💻 Cursos realizados
-<table>
+<table width="30%">
   <tr>
     <th>
       Desarrollo de Aplicaciones Multiplataforma, 1er Año 
-    </th>
-    <th>
-      Desarrollo de Aplicaciones Multiplataforma, 2º Año
     </th>
   </tr>
   <tr>
@@ -43,59 +40,66 @@
       <table>
         <tr>
           <td>Programación</td>
-          <td>(Descripción)</td>
+          <td>Lo más básico de Java, las bases de la programación, POO y un poco de acceso a datos</td>
         </tr>
         <tr>
           <td>Bases de Datos</td>
-          <td>(Descripción)</td>
+          <td>Inicio en el lenguaje SQL principalmente. Creación y modificación de BBDD</td>
         </tr>
         <tr>
           <td>Entornos de Desarrollo</td>
-          <td>(Descripción)</td>
+          <td>Conocimientos sobre pruebas de procesos, debug y uso de IDEs</td>
         </tr>
         <tr>
           <td>Lenguaje de Marcas</td>
-          <td>(Descripción)</td>
+          <td>Diseño de webs de HTML y CSS, además de algo de XML</td>
         </tr>
         <tr>
           <td>Sistemas Informáticos</td>
-          <td>(Descripción)</td>
+          <td>Cultura general sobre los sistemas informáticos</td>
         </tr>
         <tr>
           <td>Formación y Orientación Laboral</td>
-          <td>(Descripción)</td>
+          <td>Todo lo relacionado a los trabajadores</td>
         </tr>
       </table>
       <a href="https://github.com/ErikAT04/DAM-1">Enlace al repositorio de Primero</a><br>
       <a href="https://github.com/ErikAT04/TFM-PROG">Enlace al repositorio del TFM de Programación: Gestor de Citas</a><br>
     </td>
+  </tr>
+  <tr>
+    <th>
+      Desarrollo de Aplicaciones Multiplataforma, 2º Año 
+    </th>
+  </tr>
+  <tr>
     <td>
       Curso donde se implementan los conocimientos adquiridos en el primer año junto a otros a mayores. Se añaden más lenguajes de programación en los módulos <br>
       Módulos:
       <table>
         <tr>
           <td>Programación Multimedia y Móviles</td>
-          <td>(Descripción)</td>
+          <td>(WIP) Programación en Kotlin de aplicaciones para Android</td>
         </tr>
         <tr>
           <td>Programación de Servicios y Procesos</td>
-          <td>(Descripción)</td>
+          <td>(WIP) Aprendizaje de programación multiprocesos</td>
         </tr>
         <tr>
           <td>Acceso a Datos</td>
-          <td>(Descripción)</td>
+          <td>(WIP) Acceso a bases de datos SQL y NoSQL en local y en red</td>
         </tr>
         <tr>
           <td>Desarrollo de Interfaces</td>
-          <td>(Descripción)</td>
+          <td>(WIP) Correcta implementación de Interfaces y Experiencia de Usuario con Dart y Flutter</td>
         </tr>
         <tr>
           <td>Sistemas de Gestión Empresarial</td>
-          <td>(Descripción)</td>
+          <td>(WIP) Programación de sistemas gestores de empresas con Python (Odoo) de medio de aprendizaje</td>
         </tr>
         <tr>
           <td>Empresa e Iniciativa Emprendedora</td>
-          <td>(Descripción)</td>
+          <td>(WIP) Todo lo relacionado a llevar una empresa y los factores a tener en cuenta</td>
         </tr>
       </table>
       <a href="https://github.com/ErikAT04/DAM-2">Enlace al repositorio de Segundo</a>
