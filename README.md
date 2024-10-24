@@ -10,6 +10,7 @@
     <li>Manipulación de objetos de JavaScript (JSON) en otros lenguajes <img src="https://cdn-icons-png.flaticon.com/512/136/136525.png" height="20px"></li>
     <li>Python <img src="https://www.python.org/static/favicon.ico" height="18px"></li>
     <li>Kotlin <img src="https://kotlinlang.org//assets/images/favicon.svg?v2" height="16px"></li>
+    <li>Dart y Flutter <img src="https://storage.googleapis.com/cms-storage-bucket/4fd0db61df0567c0f352.png" height="19px"></li>
   </ul>
   Lenguajes dados previamente:
   <ul>
@@ -24,6 +25,13 @@
 <a href="mailto:aterik.dev@gmail.com" target="_blank">
   <img alt="gmail" src="https://img.shields.io/badge/Gmail-aterik.dev%40gmail.com-%233f8b47">
 </a>
+
+## 💻 Cursos realizados
+
+| Desarrollo de Aplicaciones Multiplataforma, 1er Año | Desarrollo de Aplicaciones Multiplataforma, 2º Año  |
+|--|--|
+| Curso principalmente diseñado para entender la lógica de la programación y otros usos del desarrollo de Software <br><a href="https://github.com/ErikAT04/DAM-1">Enlace al repositorio de Primero</a> <br> <a href="https://github.com/ErikAT04/TFM-PROG">Enlace al repositorio del TFM de Programación: Gestor de Citas</a>| Curso donde se implementan los conocimientos adquiridos en el primer año junto a otros a mayores. Se añaden más lenguajes de programación en los módulos <br> <a href="https://github.com/ErikAT04/DAM-2">Enlace al repositorio de Segundo</a> |
+
 
 ## ⚙️ Estadísticas GitHub 
 <p align="center">
