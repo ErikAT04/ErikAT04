@@ -27,11 +27,81 @@
 </a>
 
 ## 💻 Cursos realizados
-
-| Desarrollo de Aplicaciones Multiplataforma, 1er Año | Desarrollo de Aplicaciones Multiplataforma, 2º Año  |
-|--|--|
-| Curso principalmente diseñado para entender la lógica de la programación y otros usos del desarrollo de Software <br><a href="https://github.com/ErikAT04/DAM-1">Enlace al repositorio de Primero</a> <br> <a href="https://github.com/ErikAT04/TFM-PROG">Enlace al repositorio del TFM de Programación: Gestor de Citas</a>| Curso donde se implementan los conocimientos adquiridos en el primer año junto a otros a mayores. Se añaden más lenguajes de programación en los módulos <br> <a href="https://github.com/ErikAT04/DAM-2">Enlace al repositorio de Segundo</a> |
-
+<table>
+  <tr>
+    <th>
+      Desarrollo de Aplicaciones Multiplataforma, 1er Año 
+    </th>
+    <th>
+      Desarrollo de Aplicaciones Multiplataforma, 2º Año
+    </th>
+  </tr>
+  <tr>
+    <td>
+      Curso principalmente diseñado para entender la lógica de la programación y otros usos del desarrollo de Software <br>
+      Módulos:
+      <table>
+        <tr>
+          <td>Programación</td>
+          <td>(Descripción)</td>
+        </tr>
+        <tr>
+          <td>Bases de Datos</td>
+          <td>(Descripción)</td>
+        </tr>
+        <tr>
+          <td>Entornos de Desarrollo</td>
+          <td>(Descripción)</td>
+        </tr>
+        <tr>
+          <td>Lenguaje de Marcas</td>
+          <td>(Descripción)</td>
+        </tr>
+        <tr>
+          <td>Sistemas Informáticos</td>
+          <td>(Descripción)</td>
+        </tr>
+        <tr>
+          <td>Formación y Orientación Laboral</td>
+          <td>(Descripción)</td>
+        </tr>
+      </table>
+      <a href="https://github.com/ErikAT04/DAM-1">Enlace al repositorio de Primero</a><br>
+      <a href="https://github.com/ErikAT04/TFM-PROG">Enlace al repositorio del TFM de Programación: Gestor de Citas</a><br>
+    </td>
+    <td>
+      Curso donde se implementan los conocimientos adquiridos en el primer año junto a otros a mayores. Se añaden más lenguajes de programación en los módulos <br>
+      Módulos:
+      <table>
+        <tr>
+          <td>Programación Multimedia y Móviles</td>
+          <td>(Descripción)</td>
+        </tr>
+        <tr>
+          <td>Programación de Servicios y Procesos</td>
+          <td>(Descripción)</td>
+        </tr>
+        <tr>
+          <td>Acceso a Datos</td>
+          <td>(Descripción)</td>
+        </tr>
+        <tr>
+          <td>Desarrollo de Interfaces</td>
+          <td>(Descripción)</td>
+        </tr>
+        <tr>
+          <td>Sistemas de Gestión Empresarial</td>
+          <td>(Descripción)</td>
+        </tr>
+        <tr>
+          <td>Empresa e Iniciativa Emprendedora</td>
+          <td>(Descripción)</td>
+        </tr>
+      </table>
+      <a href="https://github.com/ErikAT04/DAM-2">Enlace al repositorio de Segundo</a>
+    </td>
+  </tr>
+</table>
 
 ## ⚙️ Estadísticas GitHub 
 <p align="center">
