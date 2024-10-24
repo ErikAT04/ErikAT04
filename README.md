@@ -95,7 +95,7 @@
         </tr>
         <tr>
           <td>Sistemas de Gestión Empresarial</td>
-          <td>(WIP) Programación de sistemas gestores de empresas con Python (Odoo) de medio de aprendizaje</td>
+          <td>(WIP) Programación de sistemas gestores de empresas con Python</td>
         </tr>
         <tr>
           <td>Empresa e Iniciativa Emprendedora</td>
