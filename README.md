@@ -110,7 +110,8 @@
 ## ⚙️ Estadísticas GitHub 
 <p align="center">
 <a href="https://github.com/ErikAT04">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ErikAT04&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ErikAT04&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ErikAT04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikAT04&layout=compact&theme=tokyonight"/>
 </a>
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
