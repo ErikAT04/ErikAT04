@@ -114,4 +114,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikAT04&layout=compact&theme=tokyonight"/>
 </a>
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
