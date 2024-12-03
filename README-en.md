@@ -2,7 +2,7 @@
 My name is Erik, nice to meet ya! 👋
 </h1>
 
-[![en](https://img.shields.io/badge/lang-es-red.svg)]()
+[![es](https://img.shields.io/badge/lang-es-red.svg)](https://github.com/ErikAT04)
 
 
 <p>
@@ -76,45 +76,45 @@ My name is Erik, nice to meet ya! 👋
   </tr>
   <tr>
     <th>
-      Desarrollo de Aplicaciones Multiplataforma, 2º Año 
+      Cross Platform Application Development, 2nd year 
     </th>
   </tr>
   <tr>
     <td>
-      Curso donde se implementan los conocimientos adquiridos en el primer año junto a otros a mayores. Se añaden más lenguajes de programación en los módulos <br>
-      Módulos:
+      Here we implement all the knowledge we acquired in first year and we add some more. We start using new programming languages in different modules<br>
+      Modules:
       <table>
         <tr>
-          <td>Programación Multimedia y Móviles</td>
-          <td>(WIP) Programación en Kotlin de aplicaciones para Android</td>
+          <td>Multimedia and Mobile Devices Application Programming</td>
+          <td>(WIP) Kotlin programming for Android and cross platform apps</td>
         </tr>
         <tr>
-          <td>Programación de Servicios y Procesos</td>
-          <td>(WIP) Aprendizaje de programación multiprocesos</td>
+          <td>Services and Tasks programming</td>
+          <td>(WIP) Multitask programming learning </td>
         </tr>
         <tr>
-          <td>Acceso a Datos</td>
-          <td>(WIP) Acceso a bases de datos SQL y NoSQL en local y en red</td>
+          <td>Database Access</td>
+          <td>(WIP) Access to different databases (SQL & NoSQL) and data sources (JSON, APIs)</td>
         </tr>
         <tr>
-          <td>Desarrollo de Interfaces</td>
-          <td>(WIP) Correcta implementación de Interfaces y Experiencia de Usuario con Dart y Flutter</td>
+          <td>Interface Development</td>
+          <td>(WIP) Correct UX and UI implementation using the framework Flutter (Dart)</td>
         </tr>
         <tr>
-          <td>Sistemas de Gestión Empresarial</td>
-          <td>(WIP) Programación de sistemas gestores de empresas con Python</td>
+          <td>Enterprise Management Systems</td>
+          <td>(WIP) ERP programming with Python</td>
         </tr>
         <tr>
-          <td>Empresa e Iniciativa Emprendedora</td>
-          <td>(WIP) Todo lo relacionado a llevar una empresa y los factores a tener en cuenta</td>
+          <td>Entrepreneurial Initiative</td>
+          <td>(WIP) Information related to leading an enterprise and everything to take care of</td>
         </tr>
       </table>
-      <a href="https://github.com/ErikAT04/DAM-2">Enlace al repositorio de Segundo</a>
+      <a href="https://github.com/ErikAT04/DAM-2">Link to the repository of the second year (es)</a>
     </td>
   </tr>
 </table>
 
-## ⚙️ Estadísticas GitHub 
+## ⚙️ GitHub Statistics 
 <p align="center">
 <a href="https://github.com/ErikAT04">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ErikAT04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
