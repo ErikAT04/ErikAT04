@@ -2,7 +2,7 @@
 ¡Soy Erik, un gusto! 👋
 </h1>
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)]()
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/ErikAT04/ErikAT04/blob/main/README-en.md)
 
 
 <p>
