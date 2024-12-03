@@ -25,6 +25,9 @@
 <a href="mailto:aterik.dev@gmail.com" target="_blank">
   <img alt="gmail" src="https://img.shields.io/badge/Gmail-aterik.dev%40gmail.com-%233f8b47">
 </a>
+<br>
+<img alt="wakapi" src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/ByErikAT/interval:all_time&label=All%20time&color=blue"/>
+
 
 ## 💻 Cursos realizados
 <table width="30%">
