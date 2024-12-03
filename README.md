@@ -1,6 +1,10 @@
 <h1>
 ¡Soy Erik, un gusto! 👋
 </h1>
+
+[![en](https://img.shields.io/badge/lang-en-red.svg)]()
+
+
 <p>
   Intento de programador. Estudiando 2º de DAM 💻<br>
   Actualmente aprendiendo:
