@@ -70,8 +70,8 @@ My name is Erik, nice to meet ya! 👋
           <td>Everything related to workers' laws and principles in Spain</td>
         </tr>
       </table>
-      <a href="https://github.com/ErikAT04/DAM-1">Link to 1st year Repository (sp)</a><br>
-      <a href="https://github.com/ErikAT04/TFM-PROG">Link to the Final Work from Programming: a Meeting Manager</a><br>
+      <a href="https://github.com/ErikAT04/DAM-1">Link to 1st year Repository (es)</a><br>
+      <a href="https://github.com/ErikAT04/TFM-PROG">Link to the Final Work from Programming: Meeting Manager (es)</a><br>
     </td>
   </tr>
   <tr>
