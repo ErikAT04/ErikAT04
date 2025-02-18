@@ -86,30 +86,31 @@ My name is Erik, nice to meet ya! 👋
       <table>
         <tr>
           <td>Multimedia and Mobile Devices Application Programming</td>
-          <td>(WIP) Kotlin programming for Android and cross platform apps</td>
+          <td>Kotlin programming for Android apps</td>
         </tr>
         <tr>
           <td>Services and Tasks programming</td>
-          <td>(WIP) Multitask programming learning </td>
+          <td>Multitask programming learning </td>
         </tr>
         <tr>
           <td>Database Access</td>
-          <td>(WIP) Access to different databases (SQL & NoSQL) and data sources (JSON, APIs)</td>
+          <td>Access to different databases (SQL & NoSQL) and data sources (JSON, APIs) while learning about ORM (JPQL)</td>
         </tr>
         <tr>
           <td>Interface Development</td>
-          <td>(WIP) Correct UX and UI implementation using the framework Flutter (Dart)</td>
+          <td>Correct UX and UI implementation using the framework Flutter (Dart)</td>
         </tr>
         <tr>
           <td>Enterprise Management Systems</td>
-          <td>(WIP) ERP programming with Python</td>
+          <td>ERP programming with Python</td>
         </tr>
         <tr>
           <td>Entrepreneurial Initiative</td>
-          <td>(WIP) Information related to leading an enterprise and everything to take care of</td>
+          <td>Information related to leading an enterprise and everything to take care of</td>
         </tr>
       </table>
-      <a href="https://github.com/ErikAT04/DAM-2">Link to the repository of the second year (es)</a>
+      <a href="https://github.com/ErikAT04/DAM-2">Link to the repository of the second year (es)</a><br>
+      <a href="https://github.com/ErikAT04/TFG_Antivirus_ErikAT">Link to the my final project: Magik Antivirus</a>
     </td>
   </tr>
 </table>

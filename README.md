@@ -86,30 +86,31 @@
       <table>
         <tr>
           <td>Programación Multimedia y Móviles</td>
-          <td>(WIP) Programación en Kotlin de aplicaciones para Android</td>
+          <td>Programación en Kotlin de aplicaciones para Android</td>
         </tr>
         <tr>
           <td>Programación de Servicios y Procesos</td>
-          <td>(WIP) Aprendizaje de programación multiprocesos</td>
+          <td>Aprendizaje de programación multiprocesos</td>
         </tr>
         <tr>
           <td>Acceso a Datos</td>
-          <td>(WIP) Acceso a bases de datos SQL y NoSQL en local y en red</td>
+          <td>Acceso a bases de datos SQL y NoSQL en local y en red, además de aprendizaje sobre servicios API y mapeo objeto relacional (JPQL)</td>
         </tr>
         <tr>
           <td>Desarrollo de Interfaces</td>
-          <td>(WIP) Correcta implementación de Interfaces y Experiencia de Usuario con Dart y Flutter</td>
+          <td>Correcta implementación de Interfaces y Experiencia de Usuario con el framework Flutter (Dart)</td>
         </tr>
         <tr>
           <td>Sistemas de Gestión Empresarial</td>
-          <td>(WIP) Programación de sistemas gestores de empresas con Python</td>
+          <td>Programación de sistemas gestores de empresas con Python</td>
         </tr>
         <tr>
           <td>Empresa e Iniciativa Emprendedora</td>
-          <td>(WIP) Todo lo relacionado a llevar una empresa y los factores a tener en cuenta</td>
+          <td>Todo lo relacionado a llevar una empresa y los factores a tener en cuenta</td>
         </tr>
       </table>
-      <a href="https://github.com/ErikAT04/DAM-2">Enlace al repositorio de Segundo</a>
+      <a href="https://github.com/ErikAT04/DAM-2">Enlace al repositorio de Segundo</a><br>
+      <a href="https://github.com/ErikAT04/TFG_Antivirus_ErikAT">Enlace al respositorio del TFG: Magik Antivirus</a>
     </td>
   </tr>
 </table>
