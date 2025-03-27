@@ -2,7 +2,7 @@
 My name is Erik, nice to meet ya! 👋
 </h1>
 
-[![es](https://img.shields.io/badge/lang-es-red.svg)](https://github.com/ErikAT04)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/ErikAT04)
 
 
 <p>
