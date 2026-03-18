@@ -1,5 +1,5 @@
 <h1>
-¡Soy Erik, un gusto! 👋
+¡Soy Erik, un gusto!
 </h1>
 
 [![es](https://img.shields.io/badge/lang-es-red.svg)](https://github.com/ErikAT04/ErikAT04/blob/main/README-en.md)
