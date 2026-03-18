@@ -6,116 +6,91 @@
 
 
 <p>
-  Intento de programador. Estudiando 2º de DAM 💻<br>
-  Actualmente aprendiendo:
-  <ul>
-    <li>Java <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="20px"></li>
-    <li>SQL (Oracle Database & MySQL) <img src="https://www.oracle.com/asset/web/favicons/favicon-32.png" height="20px"> <img src="https://labs.mysql.com/common/themes/sakila/favicon.ico" height="18px"></li>
-    <li>Manipulación de objetos de JavaScript (JSON) en otros lenguajes <img src="https://cdn-icons-png.flaticon.com/512/136/136525.png" height="20px"></li>
-    <li>Python <img src="https://www.python.org/static/favicon.ico" height="18px"></li>
-    <li>Kotlin <img src="https://kotlinlang.org//assets/images/favicon.svg?v2" height="16px"></li>
-    <li>Dart y Flutter <img src="https://storage.googleapis.com/cms-storage-bucket/4fd0db61df0567c0f352.png" height="19px"></li>
-  </ul>
-  Lenguajes dados previamente:
-  <ul>
-    <li>HTML <img src="https://static-00.iconduck.com/assets.00/html-5-icon-726x1024-evem6gg5.png" height="20px"></li>
-    <li>CSS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="20px"></li>
-    <li>XML <img src="https://cdn-icons-png.flaticon.com/512/337/337959.png" height="18px"></li>
-  </ul>
-  Entusiasta en todo lo que hago y me gusta hacer, experimentando día sí y día también<br>
-  Con ganas de aprender sobre todo 📖
+  Programador en constante evolución en un mundo muy competitivo. Desarrollador con mayor experiencia en desarrollo de backend y aplicaciones móviles y de escritorio. <br>
+  Entusiasta nato, experimentando con todo tipo de tecnologías y aprendiendo día tras día.<br>
 </p>
 
-<a href="mailto:aterik.dev@gmail.com" target="_blank">
-  <img alt="gmail" src="https://img.shields.io/badge/Gmail-aterik.dev%40gmail.com-%233f8b47">
-</a>
-<br>
-<img alt="wakapi" src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/ByErikAT/interval:all_time&label=All%20time&color=blue"/>
+---
 
+## Capacidades
+- Desarrollo de APIs REST con FastAPI y SpringBoot.
+- Desarrollo de aplicaciones de escritorio con C# (WPF) y Pascal (Embarcadero Delphi).
+- Desarrollo de aplicaciones multiplataforma con Flutter.
+- Diseño y gestión de bases de datos SQL y NoSQL.
+- Integración de sistemas y servicios.
+- Adaptación e interconexión entre dispositivos con distintos protocolos de comunicación (JS / Python).
+- Dockerización de aplicaciones.
 
-## 💻 Cursos realizados
-<table width="30%">
-  <tr>
-    <th>
-      Desarrollo de Aplicaciones Multiplataforma, 1er Año 
-    </th>
-  </tr>
-  <tr>
-    <td>
-      Curso principalmente diseñado para entender la lógica de la programación y otros usos del desarrollo de Software <br>
-      Módulos:
-      <table>
-        <tr>
-          <td>Programación</td>
-          <td>Lo más básico de Java, las bases de la programación, POO y un poco de acceso a datos</td>
-        </tr>
-        <tr>
-          <td>Bases de Datos</td>
-          <td>Inicio en el lenguaje SQL principalmente. Creación y modificación de BBDD</td>
-        </tr>
-        <tr>
-          <td>Entornos de Desarrollo</td>
-          <td>Conocimientos sobre pruebas de procesos, debug y uso de IDEs</td>
-        </tr>
-        <tr>
-          <td>Lenguaje de Marcas</td>
-          <td>Diseño de webs de HTML y CSS, además de algo de XML</td>
-        </tr>
-        <tr>
-          <td>Sistemas Informáticos</td>
-          <td>Cultura general sobre los sistemas informáticos</td>
-        </tr>
-        <tr>
-          <td>Formación y Orientación Laboral</td>
-          <td>Todo lo relacionado a los trabajadores</td>
-        </tr>
-      </table>
-      <a href="https://github.com/ErikAT04/DAM-1">Enlace al repositorio de Primero</a><br>
-      <a href="https://github.com/ErikAT04/TFM-PROG">Enlace al repositorio del TFM de Programación: Gestor de Citas</a><br>
-    </td>
-  </tr>
-  <tr>
-    <th>
-      Desarrollo de Aplicaciones Multiplataforma, 2º Año 
-    </th>
-  </tr>
-  <tr>
-    <td>
-      Curso donde se implementan los conocimientos adquiridos en el primer año junto a otros a mayores. Se añaden más lenguajes de programación en los módulos <br>
-      Módulos:
-      <table>
-        <tr>
-          <td>Programación Multimedia y Móviles</td>
-          <td>Programación en Kotlin de aplicaciones para Android</td>
-        </tr>
-        <tr>
-          <td>Programación de Servicios y Procesos</td>
-          <td>Aprendizaje de programación multiprocesos</td>
-        </tr>
-        <tr>
-          <td>Acceso a Datos</td>
-          <td>Acceso a bases de datos SQL y NoSQL en local y en red, además de aprendizaje sobre servicios API y mapeo objeto relacional (JPQL)</td>
-        </tr>
-        <tr>
-          <td>Desarrollo de Interfaces</td>
-          <td>Correcta implementación de Interfaces y Experiencia de Usuario con el framework Flutter (Dart)</td>
-        </tr>
-        <tr>
-          <td>Sistemas de Gestión Empresarial</td>
-          <td>Programación de sistemas gestores de empresas con Python</td>
-        </tr>
-        <tr>
-          <td>Empresa e Iniciativa Emprendedora</td>
-          <td>Todo lo relacionado a llevar una empresa y los factores a tener en cuenta</td>
-        </tr>
-      </table>
-      <a href="https://github.com/ErikAT04/DAM-2">Enlace al repositorio de Segundo</a><br>
-      <a href="https://github.com/ErikAT04/TFG_Antivirus_ErikAT">Enlace al respositorio del TFG: Magik Antivirus</a>
-    </td>
-  </tr>
-</table>
+---
 
-## ⚙️ Estadísticas GitHub 
+## Proyectos destacados
+### Magik Antivirus
+Antivirus desarrollado como TFG del CFGS de Desarrollo de Aplicaciones Multiplataforma, basado en el análisis de ficheros y puesta y liberación de cuarentena.
+- Tecnologías: FastAPI (Python) como BackEnd, Flutter (Dart) como FrontEnd y MySQL como gestor de bases de datos.
+- Funcionalidades: Análisis de ficheros, puesta y liberación de cuarentena de ficheros, exclusión de directorios y gestión de usuarios y dispositivos asociados.
+- Contenido notable: Programación multihilo en Dart por medio de Isolates, cifrado de archivos y comparación con marcas en bases de datos.
+- 🔗 https://github.com/ErikAT04/TFG_Antivirus_ErikAT_API
+---
+
+### ToqHer Manager
+Gestor de citas FullStack realizado como proyecto del primer año del CFGS de Desarrollo de Aplicaciones Multiplataforma
+- Tecnologías: Java como FrontEnd (con JavaFX) y BackEnd al mismo tiempo, y MySQL como gestor de bases de datos.
+- Funcionalidades: Bases de datos personales por usuario, CRUD completo, gestión de usuarios y citas
+- Contenido notable: Creación y gestión de múltiples bases de datos con una base de datos general.
+- 🔗 https://github.com/ErikAT04/TFM-PROG
+---
+
+## Tecnologías principales
+
+### Lenguajes de Programación
+Principalmente:
+- C# (Utilizado para desarrollo con WPF)
+- Python (Utilizado para scripting y desarrollo de APIs)
+- Dart (Utilizado para desarrollo de aplicaciones con Flutter)
+- Pascal (Utilizado para desarrollo con Embarcadero Delphi)
+- JavaScript (Utilizado mayoritariamente para scripting y en otras herramientas)
+
+Otros lenguajes:
+- Kotlin y Java como lenguajes de programación
+- XML, FXML, XAML, CSS y HTML como lenguajes de marcas
+
+### Bases de Datos
+- MySQL
+- PostgreSQL
+- OracleDB
+- MongoDB
+- Firebase
+- SQLite
+- Interbase/Firebird
+- Borland Paradox
+
+---
+
+## Formación
+
+### Desarrollo de Aplicaciones Multiplataforma
+**1º Año**
+- Programación (Java, POO)
+- Bases de datos (SQL)
+- Entornos de desarrollo
+- Lenguaje de marcas (HTML, CSS, XML)
+
+🔗 https://github.com/ErikAT04/DAM-1
+
+---
+
+**2º Año**
+- Apps móviles (Kotlin)
+- Servicios y procesos (Java)
+- Acceso a datos (SQL y NoSQL)
+- Interfaces con Flutter
+- Sistemas empresariales (Python)
+
+🔗 https://github.com/ErikAT04/DAM-2
+
+---
+
+## Estadísticas 
 <p align="center">
 <a href="https://github.com/ErikAT04">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ErikAT04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -123,3 +98,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ByErikAT&api_domain=wakapi.dev&theme=tokyonight&custom_title=Wakapi%20Week%20Stats"/>
 </a>
 </p>
+
+## Contacto
+<a href="mailto:aterik.dev@gmail.com" target="_blank">
+  <img alt="gmail" src="https://img.shields.io/badge/Gmail-aterik.dev%40gmail.com-%233f8b47">
+</a>
