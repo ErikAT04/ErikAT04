@@ -73,18 +73,18 @@ Otros lenguajes:
 - Programación (Java, POO)
 - Bases de datos (SQL)
 - Entornos de desarrollo
-- Lenguaje de marcas (HTML, CSS, XML)
+- Lenguajes de marcas (HTML, CSS, XML)
 
 🔗 https://github.com/ErikAT04/DAM-1
 
 ---
 
 **2º Año**
-- Apps móviles (Kotlin)
+- Desarrollo de Apps móviles (Kotlin)
 - Servicios y procesos (Java)
 - Acceso a datos (SQL y NoSQL)
-- Interfaces con Flutter
-- Sistemas empresariales (Python)
+- Diseño de Interfaces con Flutter
+- Sistemas de gestión empresarial (Python)
 
 🔗 https://github.com/ErikAT04/DAM-2
 
